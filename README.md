@@ -1,3 +1,3 @@
 # UE_BeginnerTopics
 
-Developed with Unreal Engine 5
+This is the project where I'll be implementing simple but clean features for my future lessons
